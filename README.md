@@ -106,28 +106,19 @@ Target response optimization:
 
 ---
 
-## 🖼️ Screenshots
+## OPTIONS IN IT :
 
-### Landing Page
-![Landing Page](screenshots/home.png)
+-- \ Ambulance Dispatch System
 
-### Ambulance Dispatch System
-![Ambulance Dispatch](screenshots/ambulance-dispatch.png)
+-- \ Patient Authentication
 
-### Patient Authentication
-![Patient Login](screenshots/patient-login.png)
+-- \ Clinical Registration
 
-### Clinical Registration
-![Patient Registration](screenshots/patient-registration.png)
+-- \ Patient Dashboard
 
-### Patient Dashboard
-![Patient Dashboard](screenshots/patient-dashboard.png)
+-- \ Electronic Lab Reports
 
-### Electronic Lab Reports
-![Lab Reports](screenshots/lab-reports.png)
-
-### Billing & Insurance
-![Billing](screenshots/billing.png)
+-- \ Billing & Insurance
 
 ---
 
