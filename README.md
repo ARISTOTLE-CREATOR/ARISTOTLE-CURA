@@ -135,7 +135,7 @@ Target response optimization:
 - Express.js
 
 ### Database
-- MongoDB
+- (NOT CONNECTED) MongoDB
 
 ### Deployment
 - Vercel
