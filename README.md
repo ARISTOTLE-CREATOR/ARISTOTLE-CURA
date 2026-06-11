@@ -167,8 +167,6 @@ ARISTOTLE CURA aims to create an integrated healthcare ecosystem where emergency
 - E-Prescription System
 - Wearable Device Integration
 - Predictive Healthcare Analytics
-
-© 2026 ARISTOTLE CURA. All Rights Reserved.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🤝 Contributing
 
