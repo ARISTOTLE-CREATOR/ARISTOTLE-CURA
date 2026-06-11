@@ -178,8 +178,5 @@ ARISTOTLE CURA aims to create an integrated healthcare ecosystem where emergency
 - Predictive Healthcare Analytics
 
 ---
-## 📄 License
-
-This project is licensed under the MIT License.
 
 © 2026 ARISTOTLE CURA. All Rights Reserved.
