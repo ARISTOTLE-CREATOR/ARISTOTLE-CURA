@@ -1,0 +1,6 @@
+{
+  "name": "ARISTOTLE",
+  "description": "An intelligent, premium healthcare ecosystem connecting Patients, Doctors, Ambulances, and Admins with real-time operations, telemetry tracking, multilingual support, and health diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
