@@ -168,6 +168,21 @@ ARISTOTLE CURA aims to create an integrated healthcare ecosystem where emergency
 - Wearable Device Integration
 - Predictive Healthcare Analytics
 
----
-
 © 2026 ARISTOTLE CURA. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are always welcome!
+
+If you find a bug, security issue, UI improvement, performance optimization, or have ideas to enhance ARISTOTLE CURA, please feel free to:
+
+* Open an Issue
+* Submit a Pull Request
+* Start a Discussion
+* Contact me directly
+
+I am always open to discussing new features, healthcare innovations, collaborations, and technical improvements.
+
+📩 Feel free to reach out if you'd like to contribute or simply discuss the project.
+
+Thank you for helping make ARISTOTLE CURA better.
