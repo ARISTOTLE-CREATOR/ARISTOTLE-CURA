@@ -180,7 +180,5 @@ If you find a bug, security issue, UI improvement, performance optimization, or 
 * Contact me directly
 
 I am always open to discussing new features, healthcare innovations, collaborations, and technical improvements.
-
-📩 Feel free to reach out if you'd like to contribute or simply discuss the project.
-
+Feel free to reach out if you'd like to contribute or simply discuss the project.
 Thank you for helping make ARISTOTLE CURA better.
