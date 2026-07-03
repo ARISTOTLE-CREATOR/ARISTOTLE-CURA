@@ -27,7 +27,6 @@ The system provides secure patient management, appointment scheduling, digital h
 - Real-time notifications
 
 ### 🚑 Emergency Ambulance System
-- Guest ambulance requests without login
 - GPS-based emergency dispatch
 - Live ambulance tracking
 - ETA monitoring
