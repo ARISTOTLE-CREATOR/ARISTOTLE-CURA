@@ -37,12 +37,10 @@ The system provides secure patient management, appointment scheduling, digital h
 - Multi-role access management
 - Patient record monitoring
 - Clinical operations dashboard
-- Billing supervision
 - Emergency dispatch coordination
 
 ### 📊 Health Analytics
 - Blood test reports
-- ECG analysis reports
 - Diagnostic summaries
 - Health metrics monitoring
 - Digital report generation
