@@ -6,7 +6,6 @@ ARISTOTLE CURA is a next-generation healthcare ecosystem designed to seamlessly 
 The system provides secure patient management, appointment scheduling, digital health records, ambulance dispatch tracking, clinical reporting, billing management, and role-based healthcare access.
 
 ---
-
 ## 🚀 Key Features
 
 ### 👤 Patient Portal
